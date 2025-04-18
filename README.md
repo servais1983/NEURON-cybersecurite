@@ -6,9 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-prototype-orange.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/servais1983/NEURON-cybersecurite/main/assets/neuron-logo.png" alt="NEURON Logo" width="300" onerror="this.style.display='none'"/>
-</p>
+![cgWuYORKAkTzi_kCKW-DP](https://github.com/user-attachments/assets/d8450dea-e598-49b5-a8de-b3592f5a8b73)
 
 ## 🔍 Vision du projet
 
